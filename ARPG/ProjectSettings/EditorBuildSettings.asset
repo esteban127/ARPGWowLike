@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 058ef47226d1e6a409cb7de0868bec2f
+  - enabled: 1
+    path: Assets/Scenes/Town.unity
+    guid: 88a5bb329a7458b4da84c02c5231032d
+  - enabled: 1
+    path: Assets/Scenes/DarkCave.unity
+    guid: a29a2659a85831144ac38e0ea2b17460
+  - enabled: 1
+    path: Assets/Scenes/DarkLordChamber.unity
+    guid: 03d63fdfbcb6fca4584f52974fd3f5ac
